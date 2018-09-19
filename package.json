@@ -3,13 +3,10 @@
   "description": "Memory game with Octocats",
   "version": "0.0.1",
   "dependencies": {
-    "Telescope": "0.8.1",
     "debug": "2.6.8",
     "ejs": "^2.5.6",
-    "fs-promise": "^2.0.3",
-    "hoek": "2.16.3",
+    "hoek": "^4.0.0",
     "mime": "1.2.1",
-    "node-growl": "1.9.2",
     "npm": "^6.4.1",
     "streaming-json-stringify": "^3.1.0"
   },
