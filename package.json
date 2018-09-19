@@ -8,6 +8,9 @@
     "streaming-json-stringify": "^3.1.0",
     "Telescope": "0.8.1",
     "mime": "1.2.1",
+    "debug": "2.6.8",
+    "node-growl": "1.9.2",
+    "hoek": "2.16.3",
   },
   "devDependencies": {
     "eslint": "^3.8.1",
